@@ -1,2 +1,1 @@
-# udacity-ai-linear-algebra
-Udacity AI linear algebra project
+# Linear-Algebra-cn
